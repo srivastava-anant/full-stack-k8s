@@ -1,4 +1,4 @@
-# 🚀 Full-Stack Chat App Deployment Guide: Kubernetes (Kind) & Docker Compose
+# 🚀 Full-Stack Chat App Deployment Guide: Kubernetes (Minikube) & Docker Compose
 
 This project demonstrates a production-ready deployment of a full-stack chat application using Kubernetes. It showcases the orchestration of a React frontend, a Node.js backend, and a MongoDB database with persistent storage.
 
